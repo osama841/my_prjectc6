@@ -1,0 +1,13 @@
+E:\p7\p7\bin\Debug\p7.exe.config
+E:\p7\p7\bin\Debug\p7.exe
+E:\p7\p7\bin\Debug\p7.pdb
+E:\p7\p7\obj\Debug\p7.csprojResolveAssemblyReference.cache
+E:\p7\p7\obj\Debug\p7.Form1.resources
+E:\p7\p7\obj\Debug\p7.Properties.Resources.resources
+E:\p7\p7\obj\Debug\p7.csproj.GenerateResource.Cache
+E:\p7\p7\obj\Debug\p7.exe
+E:\p7\p7\obj\Debug\p7.pdb
+E:\p7\p7\obj\Debug\p7.Form2.resources
+E:\p7\p7\obj\Debug\p7.Form3.resources
+E:\p7\p7\obj\Debug\p7.Form4.resources
+E:\p7\p7\obj\Debug\p7.Form5.resources
